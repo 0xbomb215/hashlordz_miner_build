@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.15ef2f7e.css",
-    "main.js": "/static/js/main.a47729c4.js",
+    "main.css": "/static/css/main.d70cad94.css",
+    "main.js": "/static/js/main.14fa2936.js",
     "static/js/2902.c54209a6.chunk.js": "/static/js/2902.c54209a6.chunk.js",
     "static/js/151.36b4df73.chunk.js": "/static/js/151.36b4df73.chunk.js",
     "static/js/5402.076119a6.chunk.js": "/static/js/5402.076119a6.chunk.js",
@@ -76,10 +76,10 @@
     "static/js/2366.d25b75c9.chunk.js": "/static/js/2366.d25b75c9.chunk.js",
     "static/js/9699.249c8f12.chunk.js": "/static/js/9699.249c8f12.chunk.js",
     "static/js/1057.6b45e6ba.chunk.js": "/static/js/1057.6b45e6ba.chunk.js",
-    "static/css/6262.4ec834e8.chunk.css": "/static/css/6262.4ec834e8.chunk.css",
-    "static/js/6262.f630846a.chunk.js": "/static/js/6262.f630846a.chunk.js",
+    "static/css/5227.f134828e.chunk.css": "/static/css/5227.f134828e.chunk.css",
+    "static/js/5227.958f91de.chunk.js": "/static/js/5227.958f91de.chunk.js",
     "static/js/3206.d1a7ee94.chunk.js": "/static/js/3206.d1a7ee94.chunk.js",
-    "static/js/2918.8b988273.chunk.js": "/static/js/2918.8b988273.chunk.js",
+    "static/js/5343.dc02c67c.chunk.js": "/static/js/5343.dc02c67c.chunk.js",
     "static/media/Kalam.ttf": "/static/media/Kalam.df7f4b47ef08df08a334.ttf",
     "static/media/mission1.jpeg": "/static/media/mission1.b0e6f3994a4c2720eb4f.jpeg",
     "static/media/banner.jpeg": "/static/media/banner.44d7be4c4563eb01b07d.jpeg",
@@ -88,9 +88,9 @@
     "static/media/bottom_penguin.svg": "/static/media/bottom_penguin.3c3d5bbd62f216bbb9c518cf593b7f5d.svg",
     "static/media/leaf.png": "/static/media/leaf.19825c5e24c7800c63cd.png",
     "static/media/diamond.png": "/static/media/diamond.7f288ffb68763763c326.png",
+    "static/media/steel.png": "/static/media/steel.00f9115b95f31d4961e9.png",
     "static/media/imag1.png": "/static/media/imag1.5b2e19f9a9a134208e65.png",
     "static/media/mont.ttf": "/static/media/mont.e20d5327f1a05620c084.ttf",
-    "static/media/Icon_256_Coin_05.png": "/static/media/Icon_256_Coin_05.5f289b2b4e70db89998f.png",
     "static/media/WendyOne-Regular.ttf": "/static/media/WendyOne-Regular.63e47643d58b20318804.ttf",
     "static/media/THEBOLDFONT-FREEVERSION.ttf": "/static/media/THEBOLDFONT-FREEVERSION.35d115dae50a893710a4.ttf",
     "static/media/darktech_ldr.ttf": "/static/media/darktech_ldr.feee952d4cfea572f0b6.ttf",
@@ -98,8 +98,8 @@
     "static/media/arrow-right.svg": "/static/media/arrow-right.80e590597ee9fa9bb427ce7ff4e50a67.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.2847fef44207d50c261546008e90c0e2.svg",
     "index.html": "/index.html",
-    "main.15ef2f7e.css.map": "/static/css/main.15ef2f7e.css.map",
-    "main.a47729c4.js.map": "/static/js/main.a47729c4.js.map",
+    "main.d70cad94.css.map": "/static/css/main.d70cad94.css.map",
+    "main.14fa2936.js.map": "/static/js/main.14fa2936.js.map",
     "2902.c54209a6.chunk.js.map": "/static/js/2902.c54209a6.chunk.js.map",
     "151.36b4df73.chunk.js.map": "/static/js/151.36b4df73.chunk.js.map",
     "3949.0fc7f5c7.chunk.js.map": "/static/js/3949.0fc7f5c7.chunk.js.map",
@@ -173,13 +173,13 @@
     "2366.d25b75c9.chunk.js.map": "/static/js/2366.d25b75c9.chunk.js.map",
     "9699.249c8f12.chunk.js.map": "/static/js/9699.249c8f12.chunk.js.map",
     "1057.6b45e6ba.chunk.js.map": "/static/js/1057.6b45e6ba.chunk.js.map",
-    "6262.4ec834e8.chunk.css.map": "/static/css/6262.4ec834e8.chunk.css.map",
-    "6262.f630846a.chunk.js.map": "/static/js/6262.f630846a.chunk.js.map",
+    "5227.f134828e.chunk.css.map": "/static/css/5227.f134828e.chunk.css.map",
+    "5227.958f91de.chunk.js.map": "/static/js/5227.958f91de.chunk.js.map",
     "3206.d1a7ee94.chunk.js.map": "/static/js/3206.d1a7ee94.chunk.js.map",
-    "2918.8b988273.chunk.js.map": "/static/js/2918.8b988273.chunk.js.map"
+    "5343.dc02c67c.chunk.js.map": "/static/js/5343.dc02c67c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15ef2f7e.css",
-    "static/js/main.a47729c4.js"
+    "static/css/main.d70cad94.css",
+    "static/js/main.14fa2936.js"
   ]
 }
